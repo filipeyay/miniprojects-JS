@@ -1,3 +1,3 @@
-# Mini Projetos em JavaScript
+# Mini JavaScript Projects
 
-Pequenos e simples projetos feitos durante minhas sessões de estudo com JavaScript.
+Small and simple projects made in my study sessions with JavaScript.
