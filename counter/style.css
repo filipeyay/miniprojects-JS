@@ -1,0 +1,41 @@
+body {
+  background: #222;
+  color: #fff;
+}
+
+#myLabel {
+  font-family: monospace;
+  font-size: 70px;
+  display: block;
+  text-align: center;
+}
+
+#btns {
+  text-align: center;
+}
+
+.allBtns {
+  background: linear-gradient(to bottom, #2dabf9 5%, #0688fa 100%);
+  background-color: #2dabf9;
+  color: #fff;
+  border-radius: 11px;
+  border: 1px solid #0b0e07;
+  display: inline-block;
+  font-family: Verdana, sans-serif;
+  font-size: 15px;
+  padding: 10px 26px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #263666;
+}
+
+.allBtns:hover {
+  background: linear-gradient(to bottom, #000 5%, #222222 100%);
+  background-color: #000;
+  color: #fff;
+  cursor: pointer;
+}
+
+.allBtns:active {
+  position: relative;
+  top: 1px;
+}
